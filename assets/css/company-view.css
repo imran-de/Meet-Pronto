@@ -1,0 +1,652 @@
+.hero-banner{
+	background-image: url('../image/front-with-ad-banner.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 960px;
+  position: relative;
+}
+ /*tag show style*/
+ ul.tag-list {
+  padding: 10px 0px;
+  list-style: none;
+}
+ul.tag-list li {
+  display: inline;
+  font-size: 18px;
+}
+ul.tag-list li+li:before {
+  color: black;
+  content: "/ ";
+}
+ul.tag-list li {
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22.1px;
+}
+.company-view-body{
+	width: 70%;
+	position: relative;
+	margin-top: -543px;
+	margin-bottom: 40px;
+	background-color: #FAFAFA;
+	min-height: 600px;
+}	
+
+ /*End tag show style*/
+.arrow{
+  box-sizing: border-box;
+  height: 36px;
+  width: 36px;
+  background-color: #FAFAFA;
+  border: 2px solid #84C1D6;
+  border-radius: 50%;
+  text-decoration: none;
+  color: #00153B;
+  margin-top: 7px;
+}
+.arrow:hover{
+	color: #00153B;
+}
+.arrow span{
+	box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    margin: 5px;
+    font-size: 35px;
+    text-align: center;
+    border-radius: 50%;
+    position: relative;
+    top: -29px;
+    left: 3px;
+}
+.arrow .right{
+	top: -29px;
+	left: 9px;
+}
+.tilbake {
+  height: 21px;
+  width: 59px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+  text-decoration: none;
+}
+.til-soket {
+  height: 25px;
+  width: 66px;
+  opacity: 0.99;
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24.4px;
+}
+.company-banner{
+	background-image: url('../image/iceplace.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 348px;
+}
+.company-banner-text{
+  color: #FFFFFF;
+  font-family: "Adobe Caslon Pro";
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 39px;
+}
+.company-title{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52px;
+}
+.company-logo img{
+  height: 112px;
+  width: 116px;
+  border-radius: 50%;
+}
+.company-sub-title{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+.company-description{
+  opacity: 0.99;
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24.4px;
+}
+.company-icon-title{
+  color: #00153B;
+  font-size: 19px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 23.75px;
+}
+.company-page-book-button>img{
+	width: 36px;
+	height: 36px;
+}
+.company-page-book-button{
+	height: 38px;
+	width: 171px;
+	color: #FFFFFF;
+	font-family: "Azo Sans";
+	font-size: 17px;
+	letter-spacing: 0;
+	line-height: 30px;
+	border: none;
+	border-radius: 24px;
+	background-color: #00153B;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);z-index: 999;
+	margin-left: 40px;
+}
+.company-right-bar li, a{
+  color: #55647E;
+  font-family: "Azo Sans";
+  font-size: 16px;
+  letter-spacing: 0;
+  text-decoration: none;
+  padding-top: 20px;
+
+}
+.company-right-bar a:hover{
+	color: #55647E;
+}
+.riview-title{
+	color: #00153B;
+  font-size: 14px;
+}
+.review-count{
+  color: #7F8A9D;
+  font-size: 14px;
+  font-weight: 500;
+}
+.star{	
+  font-size: 24px;
+  box-sizing: border-box;
+}
+.star:hover{
+  color: #2EB598;	
+}
+.checked{
+  color: #2EB598;
+}
+.category-count{
+	  color: #55647E;
+  	font-size: 16px;
+  	padding-top: 15px;
+}
+.icon-list>li{
+  margin: 5px 5px;
+}
+.service-area{
+	margin-top:130px;
+	margin-bottom: 96px;
+}
+.service-area-title{
+  color: #00153B;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22.1px;
+}
+.service-tag{
+	margin-top: 39px;
+}
+.service-tag>li{
+	display: inline;
+	padding: 10px;
+}
+.notification-count{
+    color: #FFFFFF;
+    position: relative;
+    background-color: #DC0606;
+    padding: 4px;
+    text-align: center;
+    border-radius: 50%;
+    top: -15px;
+    left: -20px;
+
+}
+.user-name{
+  height: 26px;
+  width: 109px;
+  transform: rotate(-29deg);
+  color: #F7B9B9;
+  font-family: "Azo Sans";
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 18px;
+  right: -130px;
+}
+/****************
+update listing style
+*****************/
+.edit-button{
+  position: relative;
+  height: 96px;
+  width: 260px;
+  top: 128px;left: 240px;
+  opacity: 0.5;
+  background-color: #FFFFFF;
+}
+.edit-button button{
+  border: none;
+  background-color: #FFFFFF; 
+}
+.edit-text{
+    color: #00153B;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22.1px;
+}
+.edit-profile-title{
+  color: #00153B;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 20px;
+}
+.publiser{
+  height: 38px;
+  width: 112px;
+  margin: 4px 0px;
+  color: #FFFFFF;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+  border: none; border-radius: 19px;
+  background-color: #00153B;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+}
+.save{
+  height: 21px;
+  width: 45px;
+  color: #00153B;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+  border: none;
+  background-color: #FAFAFA;
+  margin-right: 30px;
+}
+.edit-main-image{
+  position: relative;
+  height: 96px;
+  width: 260px;
+  opacity: 0.5;
+  background-color: #FFFFFF;
+}
+.edit-main-image button{
+    border: none;
+  background-color: #FFFFFF; 
+}
+.edit-sub-title{
+  color: #00153B;
+  font-size: 19px;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 23.75px;
+}
+.company-text{
+  color: #59677F;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.edit-button-text{
+  border: none;
+  width: 42px;
+  height: 42px;
+  background-color: #FAFAFA;
+}
+/*tag after content change only*/
+ul.tag-list li+li:before {
+  color: black;
+  content: ", ";
+}
+.update-left-bottom-text{
+  margin-top: 186px;
+  margin-bottom: 150px;
+}
+.input-checkbox{
+  width: 100%;
+  float: left;
+}
+.input-checkbox.select-radio{
+  width: 33%;
+}
+.input-contact{
+  height: 60px;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+  border: none;
+}
+
+/*Suppliers-Oslo-Advokatene*/
+.hero-banner-Suppliers-Oslo-Advokatene{
+  background-image: url('../image/pexels-christian-heitz-842711.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 960px;
+  position: relative;
+}
+ul.tag-list-fixed li+li:before {
+  color: black;
+  content: "/ ";
+}
+.resultat {
+  color: #55647E;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 29px;
+  width: 48px;
+  float: left;
+}
+.advokate-expand {
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 348px;
+  background-color: #FFFFFF;
+}
+.advokate-banner-text{
+  color: #00153B;
+  font-family: "Adobe Caslon Pro";
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 39px;
+}
+.name-of-banner-person{
+  color: #00153B;
+  font-family: "Adobe Caslon Pro";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.desiganation{
+  color: #00153B;
+  font-family: "Adobe Caslon Pro";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+.landscape-logo{
+  padding-top: 42px;
+  padding-bottom: 73px;
+}
+.landscape-logo img{
+  height: 60px;
+  width: 140px;
+}
+.button-box{
+  height: 38px;
+  width: 161px;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+  text-decoration: none;
+}
+.input-check-s{
+  margin-left: 10px;
+  margin-top: 3px;
+  margin-right: 10px;
+  font-size: 17px;
+}
+.hvitserk-icon img{
+  margin-right: 20px;
+}
+.hvitserk-icon li{
+  display: block;
+  width: 50%;
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.phone-input-box{
+    height: 60px;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 35%) 0px 0px 3px 0px;
+}
+.phone-input-box input{
+  border: none;
+  height: 60px;
+}
+.form-input-title{
+  padding-left: 105px;
+}
+.hvi-count-icon-expand .oval{
+  background-color: #fafafa;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 1.0);
+}
+.icon-radio{
+  height: 120px;
+}
+.input-checkbox.icon-radio .checkmark{
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  box-shadow: 0 0 4px 1px rgb(0 0 0 / 40%)
+}
+.input-checkbox.icon-radio .container-custom .checkmark:after{
+  border: none;
+}
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .company-view-body{
+    width: 100%;
+    margin-top: -500px;
+  }
+  .edit-button{
+  left: 100PX;
+  }
+  .advokate-expand img{
+    height: 130px;
+    width: 170px;
+  }
+  .advokate-expand {
+    height: auto;
+  }
+  .advokate-banner-text{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .name-of-banner-person{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .desiganation{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .company-title{
+    font-size: 28px;
+    text-align: center;
+  }
+  .service-area {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  .hero-banner{
+  height: 250px;
+  }
+  .user-name{
+    display: none;
+  }
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {  
+  .user-name{
+    display: none;
+  }
+  .company-view-body{
+    width: 100%;
+    margin-top: -600px;
+  }
+  .edit-button{
+  left: 100PX;
+  }
+  .advokate-expand img{
+    height: 130px;
+    width: 170px;
+  }
+  .advokate-expand {
+    height: auto;
+  }
+  .advokate-banner-text{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .name-of-banner-person{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .desiganation{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .company-title{
+    font-size: 28px;
+    text-align: center;
+  }
+  .service-area {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  .hero-banner{
+  height: 250px;
+  }
+  .hero-banner.update-sb{
+    height: 960px;
+  }
+  .input-checkbox.select-radio {
+    width: 50%;
+  }
+  .form-input-title{
+  padding-left: 116px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .user-name{
+    display: none;
+  }
+  .company-view-body{
+    width: 100%;
+    margin-top: 0px;
+  }
+  .edit-button{
+  left: 100PX;
+  }
+  .advokate-expand img{
+    height: 130px;
+    width: 170px;
+  }
+  .advokate-expand {
+    height: auto;
+  }
+  .advokate-banner-text{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 18px;
+  }
+  .name-of-banner-person{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: right;
+  }
+  .desiganation{
+    color: #00153B;
+    font-family: "Adobe Caslon Pro";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-top: -10px;
+    text-align: right;
+  }
+  .company-title{
+    font-size: 28px;
+    text-align: center;
+  }
+  .service-area {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  .company-logo{
+    text-align: center;
+  }
+  .hero-banner{
+  height: 250px;
+  }
+  .hvi-count-icon li{
+    width: 100%;
+  }
+  .form-input-title{
+  padding-left: 96px;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+
+}

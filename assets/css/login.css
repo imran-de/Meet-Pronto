@@ -1,0 +1,581 @@
+/*******************************
+ * login page style
+ * *******************************/
+.login-wrapper{
+  position: relative;
+  margin-top: -300px;
+
+}
+.login-box{
+  height: 584px;
+  width: 648px;
+  border-radius: 5px;
+  background-color: #00153B;
+  margin: 154px auto;
+}
+.login-title-icon img{
+  height: 72px;
+  width: 72px;
+  text-align: center;
+  align-content: center;
+}
+.login-box h1{
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  text-align: center;
+}
+.login-box ,p ,a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.forget-button{
+  border: none;
+  height: 21px;
+  width: 150px;
+  color: #FFFFFF;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+  background-color: #00153B;
+}
+.login-button{
+  border: none;
+  color: #00153B;
+  font-size: 17px;
+  height: 38px;
+  width: 117px;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+}
+.email,.password{
+  text-align: center;
+}
+.input-title{
+  height: 60px;
+  margin-top: 25px;
+  width: 100px;
+  font-size: 17px;
+  color: #FFFFFF;
+  float: left;
+}
+.input-box img{
+  margin-left: -10px;
+  height: 27px;
+  width: 27px;
+}
+.input-box{
+  margin-top: 20px;
+  height: 60px;
+  width: 276px;
+  float: left;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+}
+.input-box input{
+  border: none;
+  height: 60px;
+  outline: none;
+}
+
+/********************************
+ * End login page style
+ * ****************************/
+ /*******************
+  * user profile style
+  ************************** */
+.user-name{
+  height: 26px;
+  width: 109px;
+  transform: rotate(-29deg);
+  color: #F7B9B9;
+  font-family: "Azo Sans";
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 18px;
+  right: -130px;
+}
+.notification-count{
+    color: #FFFFFF;
+    position: relative;
+    background-color: #DC0606;
+    padding: 4px;
+    text-align: center;
+    border-radius: 50%;
+    top: -15px;
+    left: -20px;
+
+}
+.user-profile-banner{
+  height: 400px;
+  background: linear-gradient(180deg, #FEE4A7 0%, #FCFCFC 100%);
+}
+.user-profile-body{
+	position: relative;
+	margin-top: -350px;
+	margin-bottom: 60px;
+}
+.profile-top-bar{
+  height: 60px;
+  align-content: center;
+  background-color: #FAFAFA;
+}
+.profile-top-bar h4{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.user-profile-left,.user-profile-right{
+	background-color: #FAFAFA;
+	min-height: 1080px;
+	overflow: hidden;	
+}
+.user-profile-left{
+	margin-right: 12px;
+}
+.user-profile-right{
+	margin-left: 12px;
+}
+.user-profile-title{
+	border-bottom: 11px solid #00153B;
+}
+.user-profile-title h1{
+  padding: 36px 0 10px 20px;
+  align-content: center;
+  color: #00153B;
+  font-size: 30px;
+  letter-spacing: 0;
+}
+.name-profile{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+}
+.profile,.e-post,.telepone,.address{
+	margin-top: 10px;
+}
+.profile-icon,.e-post-icon,.telepone-icon,.address-icon{
+    box-sizing: border-box;
+    height: 44px;
+    width: 44px;
+    float: left;
+    /*border: 2px solid #00153B;*/
+    border-radius: 50%;
+}
+.profile-name,.e-post-name,.telepone-name,.address-name{
+	color: #00153B;
+    font-size: 23px;
+    width: 100%;
+    float: left;
+    margin-left: 10px;
+    align-content: center;
+}
+.id{
+    position: relative;
+    width: 402px;
+    top: -5px;
+    left: 10px;
+}
+.id-title{
+  color: #00153B;
+  font-size: 20px;
+}
+.id-number,.e-post-name,.id-address{
+  opacity: 0.99;
+  color: #00153B;
+  font-size: 17px;
+  font-weight: 300;
+}
+.user-profile-rigt-bar-title{
+  padding: 20px 0 10px 10px;
+  border-bottom: 11px solid #B7E6DC;
+}
+.user-profile-rigt-bar-title h1{
+  color: #00153B;
+  font-size: 23px;
+}
+.lebel{
+  color: #7F8A9D;
+  font-size: 20px;
+}
+.confirm-box{
+	border-bottom: 4px solid #2EB598;
+	padding-bottom: 50px;
+	background-color: #FFFFFF;
+}
+.pick-time{
+  color: #59677F;
+  font-size: 17px;
+  position: relative;
+  top: 25px;
+}
+.sup{
+    top: -0.5em;
+    left: -12px;
+}
+.sup img{
+	border-radius: 50%;
+}
+.profile-sub-title{
+  color: #00153B;
+  font-size: 17px;
+}
+.profile-sub-title-text{
+  color: #000000;
+  font-size: 17px;
+  font-weight: 300;
+}
+.sup-q{
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  background-color: #FCB002;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+  position: relative;
+  left: -20px;
+}
+.sup-q>span{
+    position: relative;
+    top: 14px;
+    left: 9px;
+    font-size: 18px;
+	color: #FFFFFF;
+}
+.lebel-review{
+	width: 420px;
+	margin: auto;
+	color: #7F8A9D;
+	font-size: 20px;
+}
+.review-box{
+	  height: 270px;
+  width: 420px;
+  background-color: #00153B;
+  margin: auto;
+}
+.pick-time-review{
+  color: #FFFFFF;
+  font-size: 17px;
+}
+.star{
+	font-size: 24px;
+    box-sizing: border-box;
+}
+.star:hover{
+  color: #2EB598;	
+}
+.review-count{
+  color: #7F8A9D;
+  font-size: 14px;
+  font-weight: 500;
+}
+.checked{
+  color: #2EB598;
+}
+/******************
+ * end user profile style
+ * *****************/
+
+
+ /****************
+  *  business page
+ *****************/
+ .over-all-statics{
+	background-color: #00153B;
+	color: #FFFFFF;
+ }
+.static-oval {
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 4px solid #2EB598;
+  position: relative;
+}
+.small-oval{
+  box-sizing: border-box;
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  border: 2px solid #EF6118;
+}
+.stat-text{
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 14px;
+  font-style: italic;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  padding-left: 5px;
+}
+.small-oval-with-icon{
+  box-sizing: border-box;
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  border: 2px solid #FCB002;
+}
+.oval-yellow{
+  border: 2px solid #FCB002;
+}
+.oval-green{
+  border: 2px solid #2EB598;	
+}
+.business-edit{
+	border: none;
+	background-color: #FAFAFA;
+}
+.business-icon{
+	width: 60px;
+	height: 60px;
+}
+.business-name{
+  height: 29px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+.sub-title{
+  color: #00153B;
+  font-size: 17px;
+   font-weight: 300;
+   opacity: .99;
+}
+.right-nav{
+	position: relative;
+}
+.right-nav>ul{
+ 	display: flex;
+	border-bottom: 12px solid #2EB598;
+}
+.right-nav>ul>li{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin-right: 10px;
+    position: relative;
+    bottom: -12px;
+}
+.right-nav>ul>li:last-child{
+	margin-right: 0;
+}
+.right-nav>ul>li>a{
+    width: 100%;
+    background-color: #00153B;
+    align-content: center;
+    padding: 8px;
+}
+.right-nav>ul>li>a:hover{
+	background-color: #2EB598;
+	color: #ffffff;
+}
+.right-nav .right-nav-active{
+	background-color: #2EB598;
+}
+.accept-button{
+	border: none;
+  height: 38px;
+  width: 180px;
+ border-radius: 24px;
+ background-color: #00153B;
+ box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+}
+.accept-button>img{
+	position: relative;
+	left: -11px;
+}
+.earlier{
+  min-height: 374px;
+  background-color: #00153B;
+}
+.business-input-check{
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.business-input-check li{
+	width: 50%;
+	float: left;
+	color: #ffffff;
+	text-decoration: none;
+}
+.container-custom{
+	text-decoration: underline;
+}
+.submit{
+  height: 38px;
+  width: 71px;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+  border: none;
+  float: right;
+  margin: 40px;
+  color: #00153B;
+}
+.previous-history-box{
+  height: 74px;
+  background-color: #00153B;
+  color: #ffffff;
+}
+.pre-top-icon{
+	position: relative;
+	top: -2px;
+	left: -20px;
+}
+.pre-bottom-icon{
+	position: relative;
+	bottom: -20px;
+}
+.down-arrow{
+	color: #fff;
+	font-size: 40px;
+	position: relative;
+	top: 15px;
+}
+.pre-name-box{
+	position: relative;
+    /*left: -50px;*/
+}
+.name>.col-1{
+  width: 11%;
+  float: left;
+}
+.name>.col-10{
+  width: 89%;
+  float: left;
+}
+/****************
+ end business page
+ **************/
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  .user-name{
+    display: none;
+  }
+  .name>.col-1 {
+    width: 15%;
+    float: left;
+  }
+  .name>.col-10 {
+    width: 85%;
+    float: left;
+  }
+  .pre-top-icon {
+    position: relative;
+    top: -57px;
+    left: 40px;
+}
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .user-name{
+    display: none;
+  }
+ .profile-icon, .e-post-icon, .telepone-icon, .address-icon {
+    box-sizing: border-box;
+    height: 44px;
+    width: 44px;
+  }
+  .profile-name, .e-post-name, .telepone-name, .address-name {
+    float: none;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .login-box{
+    /*height: 443px;*/
+    width: 100%;
+  }
+.input-title {
+    height: 10px;
+    margin-top: 25px;
+    width: 100px;
+    font-size: 17px;
+    color: #FFFFFF;
+    float: left;
+  }
+  .user-profile-left,.user-profile-right{
+    background-color: #FAFAFA;
+    min-height: 300px; 
+  }
+  .user-profile-left{
+    margin-right: 0px;
+  }
+  .user-profile-right{
+    margin-left: 0px;
+  }
+  .user-profile-rigt-bar-title {
+    border-bottom: none;
+    border-top: 4px solid #00153B;
+  }
+  .user-profile-left{
+    border-top: 4px solid #2EB598;
+  }
+  .review-box {
+    width: 100%;
+  }
+  .mobile-option {
+    position: relative;
+    bottom: -13px;
+    padding: 0;
+  }
+  .profile-top-bar{
+    background-color: inherit;
+  }
+  .profile-top-bar h4 {
+    position: relative;
+    top: 29px;
+  }
+  .user-name{
+    display: none;
+  }
+  .name>.col-1{
+    width: 18%;
+    float: left;
+  }
+  .name>.col-10{
+    width: 82%;
+    float: left;
+  }
+  .pre-top-icon {
+    position: relative;
+    top: -53px;
+    left: 43px;
+  }
+  .profile-name, .e-post-name, .telepone-name, .address-name {
+    color: #00153B;
+    font-size: 23px;
+    float: left;
+    margin-left: 10px;
+    align-content: center;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+
+}

@@ -1,0 +1,190 @@
+.top-ad{
+	min-height: 13px;
+	background-color: #FAFAFA;
+}
+.eberhard{
+	background-image: url(../image/front-with-ad-banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	width: 100%;
+  position: relative;
+}
+.web-banner{
+	height: 150px;
+}
+.web-banner-text{
+  color: #000000;
+  font-family: Avenir;
+  font-size: 35px;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-align: center;
+  padding-top: 51px;
+}
+.main-banner-with-add{
+	position: relative;
+	background-color: #FFFFFF;
+}
+.avtal-mote-nar-det-p{
+	padding-top: 30px;
+}
+.web-ad-banner-side{
+  /*height: 700px;*/
+}
+.web-ad-banner-side-text {
+  color: #000000;
+  font-family: Avenir;
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 30px;
+  text-align: center;
+  margin-top: 100%;
+}
+.ad-logo img{
+  height: 128px;
+  width: 128px;
+  border-radius: 50%;
+}
+.show{
+	display: block;
+    position: absolute;
+    top: 0px;
+    height: 660px;
+    background-color: #fff;
+    left: 0%;
+}
+.slick{
+	position: relative;
+	top: 141px;
+}
+.tips-box{
+    position: relative;
+    top: 170px;
+}
+.middle-ad{
+	margin: 0px 120px;
+	position: relative;
+	top: 190px;
+  height: 150px;
+  background-color: #00153B;
+  text-align: center;
+  color: #70B5AB;
+}
+.footer-background{
+	position: relative;top: 170px;
+}
+
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .web-ad-banner-side{
+    display: none;
+  }
+  .web-banner {
+      height: 150px;
+      position: relative;
+      margin-top: 100px;
+  }
+  .main-banner-with-add {
+    position: relative;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+  }
+  .slick {
+    position: relative;
+    top: 400px;
+  }
+  .middle-ad {
+    margin: auto;
+    position: relative;
+    top: 450px;
+  }
+  .tips-box {
+    top: 420px;
+  }
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .web-ad-banner-side{
+    display: none;
+  }
+  .web-banner {
+      height: 150px;
+      position: relative;
+      margin-top: 100px;
+  }
+  .main-banner-with-add {
+    position: relative;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+  }
+  .slick {
+    position: relative;
+    top: 400px;
+  }
+  .middle-ad {
+    margin: auto;
+    position: relative;
+    top: 450px;
+  }
+  .tips-box {
+    top: 420px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+
+  .web-banner {
+      height: 150px;
+      position: relative;
+      margin-top: 100px;
+  }
+  .main-banner-with-add {
+    position: relative;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+  }
+  .web-banner-text {
+    font-size: 17px;
+    padding-top: 25px;
+  }
+  .tips-box {
+    margin: 0px;
+  }
+  .middle-ad {
+    margin: 0px;
+  }
+  .slick {
+    position: relative;
+    top: 400px;
+  }
+  .middle-ad {
+    margin: auto;
+    position: relative;
+    top: 450px;
+  }
+  .tips-box {
+    top: 420px;
+  }
+  .footer-background {
+    position: relative;
+    top: 412px;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+.popover-content.xs-pop-right {
+    left: -560%;
+}
+}

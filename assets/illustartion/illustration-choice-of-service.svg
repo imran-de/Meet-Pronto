@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="96px" viewBox="0 0 72 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/illustration-choice-of-service</title>
+    <g id="icon/illustration-choice-of-service" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#00153B" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="70" height="94" rx="2"></rect>
+        <g id="Group-2" transform="translate(12.000000, 24.000000)">
+            <rect id="Rectangle-Copy" fill="#EF6118" x="26" y="12" width="22" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-3" fill="#00153B" x="26" y="24" width="22" height="6" rx="3"></rect>
+            <g id="Group" transform="translate(0.000000, 12.000000)">
+                <rect id="Rectangle-Copy-6" fill="#FCB002" x="0" y="0" width="22" height="6" rx="3"></rect>
+                <rect id="Rectangle-Copy-7" fill="#84C1D6" x="0" y="12" width="22" height="6" rx="3"></rect>
+                <rect id="Rectangle-Copy-8" fill="#2EB598" x="0" y="24" width="22" height="6" rx="3"></rect>
+                <path d="M6,3 C6,4.656 4.656,6 3,6 C1.344,6 0,4.656 0,3 C0,1.344 1.344,0 3,0 C4.656,0 6,1.344 6,3" id="Fill-11" fill="#A6AEBB"></path>
+                <path d="M6,15 C6,16.656 4.656,18 3,18 C1.344,18 0,16.656 0,15 C0,13.344 1.344,12 3,12 C4.656,12 6,13.344 6,15" id="Fill-11-Copy-3" fill="#A6AEBB"></path>
+                <path d="M6,27 C6,28.656 4.656,30 3,30 C1.344,30 0,28.656 0,27 C0,25.344 1.344,24 3,24 C4.656,24 6,25.344 6,27" id="Fill-11-Copy-5" fill="#A6AEBB"></path>
+            </g>
+            <path d="M32,15 C32,16.656 30.656,18 29,18 C27.344,18 26,16.656 26,15 C26,13.344 27.344,12 29,12 C30.656,12 32,13.344 32,15" id="Fill-11-Copy" fill="#A6AEBB"></path>
+            <path d="M32,27 C32,28.656 30.656,30 29,30 C27.344,30 26,28.656 26,27 C26,25.344 27.344,24 29,24 C30.656,24 32,25.344 32,27" id="Fill-11-Copy-2" fill="#A6AEBB"></path>
+            <rect id="Rectangle-Copy-9" fill="#A6AEBB" x="0" y="0" width="33" height="6" rx="3"></rect>
+        </g>
+        <path d="M66,8 C66,9.104 65.104,10 64,10 C62.896,10 62,9.104 62,8 C62,6.896 62.896,6 64,6 C65.104,6 66,6.896 66,8" id="Fill-9" fill="#00153B"></path>
+        <rect id="Rectangle-Copy-2" fill="#00153B" x="16" y="6" width="28" height="4" rx="2"></rect>
+        <line x1="5.5" y1="14.5" x2="66.5" y2="14.5" id="Line-4" stroke="#00153B" stroke-width="2" stroke-linecap="round"></line>
+        <polygon id="Triangle" fill="#00153B" points="11 6 13 10 9 10"></polygon>
+    </g>
+</svg>

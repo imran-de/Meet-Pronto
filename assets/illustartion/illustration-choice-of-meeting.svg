@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="96px" viewBox="0 0 72 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/illustration-choice-of-meeting</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.650980 0 0 0 0 0.682353 0 0 0 0 0.733333 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.517647 0 0 0 0 0.756863 0 0 0 0 0.839216 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.082353 0 0 0 0 0.231373 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.180392 0 0 0 0 0.709804 0 0 0 0 0.596078 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/illustration-choice-of-meeting" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#00153B" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="70" height="94" rx="2"></rect>
+        <g filter="url(#filter-1)" id="icon/72/meetin-type-at-office" stroke-linejoin="round">
+            <g transform="translate(12.000000, 15.000000)">
+                <path d="M15.449,30 L2.7205,30 C1.265,30 0.0845,28.82 0.0845,27.3645 L0.0845,2.6355 C0.0845,1.18 1.265,0 2.7205,0 L15.449,0 C16.9045,0 18.0845,1.18 18.0845,2.6355 L18.0845,27.3645 C18.0845,28.82 16.9045,30 15.449,30 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M10.50025,26 C10.50025,26.828 9.82875,27.5 9.00025,27.5 C8.17175,27.5 7.50025,26.828 7.50025,26 C7.50025,25.1715 8.17175,24.5 9.00025,24.5 C9.82875,24.5 10.50025,25.1715 10.50025,26 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M15.3645,30 L2.636,30 C1.1805,30 0,28.82 0,27.3645 L0,2.6355 C0,1.18 1.1805,0 2.636,0 L15.3645,0 C16.82,0 18,1.18 18,2.6355 L18,27.3645 C18,28.82 16.82,30 15.3645,30 Z" id="Stroke-5" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+        </g>
+        <g filter="url(#filter-2)" id="icon/72/meetin-type-at-office-copy" stroke-linejoin="round">
+            <g transform="translate(40.000000, 21.000000)">
+                <path d="M21.3645,18 L2.636,18 C1.1805,18 0,16.82 0,15.3645 L0,2.6355 C0,1.18 1.1805,0 2.636,0 L21.3645,0 C22.82,0 24,1.18 24,2.6355 L24,15.3645 C24,16.82 22.82,18 21.3645,18 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                <g id="Group" transform="translate(5.000200, 6.000000)" stroke="#FFFFFF" stroke-width="2">
+                    <path d="M13.1301,6 L5.1301,6 C4.8536,6 4.6301,5.7765 4.6301,5.5 L4.6301,0.5 C4.6301,0.2235 4.8536,0 5.1301,0 L13.1301,0 C13.4061,0 13.6301,0.2235 13.6301,0.5 L13.6301,5.5 C13.6301,5.7765 13.4061,6 13.1301,6 Z" id="Stroke-3"></path>
+                    <polygon id="Stroke-5" points="4.26 3 -3.45501405e-13 0 -3.45501405e-13 6"></polygon>
+                </g>
+            </g>
+        </g>
+        <g filter="url(#filter-3)" id="icon/72/meetin-type-at-office-copy-2" stroke-linejoin="round">
+            <g transform="translate(8.000000, 54.000000)">
+                <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" transform="translate(21.000000, 12.000000) scale(-1, 1) translate(-21.000000, -12.000000) " points="20.5866667 24 16 24 16 17.0155102 16 7.88767347 19.3709524 3.94383673 22.742381 0 26 3.94383673"></polyline>
+                <path d="M4.6905,17.1850183 C4.6905,14.7429832 1.987,14.8565662 0.881,13.818361 C0.3365,13.3077067 0,12.6018023 0,11.8226791 C0,11.0430865 0.3365,10.337182 0.881,9.82652774 C1.425,9.31587346 2.177,9 3.007,9 L2.993,9 C3.8235,9 4.5755,9.31587346 5.119,9.82652774 C5.6635,10.337182 6,11.0430865 6,11.8226791 C6,12.6018023 5.6635,13.3077067 5.119,13.818361 C4.0135,14.8565662 1.3095,14.7429832 1.3095,17.1850183 C1.3095,22.4248568 1.5295,24 2.993,24 C4.4565,24 4.6905,22.4248568 4.6905,17.1850183 Z" id="Stroke-1" stroke="#D6E7E5" stroke-width="2"></path>
+                <path d="M13.6905,17.1850183 C13.6905,14.7429832 10.987,14.8565662 9.881,13.818361 C9.3365,13.3077067 9,12.6018023 9,11.8226791 C9,11.0430865 9.3365,10.337182 9.881,9.82652774 C10.425,9.31587346 11.177,9 12.007,9 L11.993,9 C12.8235,9 13.5755,9.31587346 14.119,9.82652774 C14.6635,10.337182 15,11.0430865 15,11.8226791 C15,12.6018023 14.6635,13.3077067 14.119,13.818361 C13.0135,14.8565662 10.3095,14.7429832 10.3095,17.1850183 C10.3095,22.4248568 10.5295,24 11.993,24 C13.4565,24 13.6905,22.4248568 13.6905,17.1850183 Z" id="Stroke-1-Copy" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+        </g>
+        <g filter="url(#filter-4)" id="icon/72/meetin-type-at-office-copy-3" stroke-linejoin="round">
+            <g transform="translate(40.000000, 54.000000)">
+                <line x1="12" y1="6.96854285" x2="12" y2="0" id="Stroke-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+                <polyline id="Stroke-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="24 0.000170057784 21.9310345 3.54672515 21.9310345 24"></polyline>
+                <polyline id="Stroke-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="0 0.000170057784 2.06896552 3.54672515 2.06896552 24"></polyline>
+                <polyline id="Stroke-9" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="5.75755862 0.000170057784 7.03452414 3.54672515 7.03452414 6.96854285"></polyline>
+                <polyline id="Stroke-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="18.2428552 0.000170057784 16.9654759 3.54672515 16.9654759 6.96854285"></polyline>
+                <path d="M8.43368276,16.7675275 C8.43368276,14.5555008 6.19630345,14.6583858 5.2809931,13.7179663 C4.83037241,13.2554091 4.55188966,12.6159918 4.55188966,11.910252 C4.55188966,11.2040871 4.83037241,10.5646698 5.2809931,10.1021126 C5.7312,9.63955544 6.35354483,9.35343322 7.04044138,9.35343322 L7.02885517,9.35343322 C7.71616552,9.35343322 8.33851034,9.63955544 8.78830345,10.1021126 C9.23892414,10.5646698 9.5174069,11.2040871 9.5174069,11.910252 C9.5174069,12.6159918 9.23892414,13.2554091 8.78830345,13.7179663 C7.8734069,14.6583858 5.63561379,14.5555008 5.63561379,16.7675275 C5.63561379,21.5138402 5.81768276,22.940625 7.02885517,22.940625 C8.24002759,22.940625 8.43368276,21.5138402 8.43368276,16.7675275 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M18.3647172,16.7675275 C18.3647172,14.5555008 16.1273379,14.6583858 15.2120276,13.7179663 C14.7614069,13.2554091 14.4829241,12.6159918 14.4829241,11.910252 C14.4829241,11.2040871 14.7614069,10.5646698 15.2120276,10.1021126 C15.6622345,9.63955544 16.2845793,9.35343322 16.9714759,9.35343322 L16.9598897,9.35343322 C17.6472,9.35343322 18.2695448,9.63955544 18.7193379,10.1021126 C19.1699586,10.5646698 19.4484414,11.2040871 19.4484414,11.910252 C19.4484414,12.6159918 19.1699586,13.2554091 18.7193379,13.7179663 C17.8044414,14.6583858 15.5666483,14.5555008 15.5666483,16.7675275 C15.5666483,21.5138402 15.7487172,22.940625 16.9598897,22.940625 C18.1710621,22.940625 18.3647172,21.5138402 18.3647172,16.7675275 Z" id="Stroke-1-Copy" stroke="#D6E7E5" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

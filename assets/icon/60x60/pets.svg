@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>04148A33-B9C9-40DB-82C1-3F5DCFA388AF</title>
+    <g id="styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-sheet" transform="translate(-240.000000, -816.000000)">
+            <g id="icon/144/pets" transform="translate(240.000000, 816.000000)">
+                <line x1="51.03545" y1="29.3661" x2="53.83045" y2="30.1961" id="Stroke-1" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="50.92215" y1="24.3544" x2="53.92215" y2="24.4044" id="Stroke-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="25.84205" y1="29.6307" x2="23.04605" y2="30.4617" id="Stroke-6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="25.95535" y1="24.619" x2="22.95535" y2="24.67" id="Stroke-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M32.29025,35.0662994 C28.89025,35.0662994 25.48725,36.3643 22.89325,38.9593 C17.70225,44.1493 17.70225,52.5643 22.89325,57.7543 C25.48825,60.3503 28.88925,61.6473 32.29025,61.6473 C35.69125,61.6473 39.09425,60.3493 41.68825,57.7543 C46.87925,52.5643 46.87925,44.1493 41.68825,38.9593 C39.09325,36.3633 35.69225,35.0653 32.29025,35.0662994 M32.29225,35.0663 L32.29225,37.0663 C35.30725,37.0663 38.14225,38.2403 40.27425,40.3733 C44.67725,44.7753 44.67725,51.9383 40.27425,56.3403 C38.14225,58.4723 35.30725,59.6473 32.29025,59.6473 C29.27425,59.6473 26.43925,58.4723 24.30725,56.3403 C19.90425,51.9383 19.90425,44.7753 24.30725,40.3733 C26.43825,38.2403 29.27425,37.0663 32.29125,37.0663 L32.29225,35.0663" id="Fill-9" fill="#FFFFFF"></path>
+                <path d="M32.00025,52.0751 C32.00025,54.9141 33.15025,57.4841 35.01125,59.3461 C36.87225,61.2061 39.44225,62.3561 42.28125,62.3561 C45.12025,62.3561 47.69025,61.2061 49.55125,59.3461" id="Stroke-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M33.31375,17.619 C36.14375,14.789 40.73275,14.789 43.56275,17.619 L47.59675,10 L48.09675,24.407 C48.09675,29.742 43.77275,34.066 38.43875,34.066 C33.10475,34.066 28.78075,29.742 28.78075,24.407 L29.28075,10 L33.31375,17.619 Z" id="Stroke-13" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

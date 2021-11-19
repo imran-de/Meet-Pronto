@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/60x60/video</title>
+    <g id="icon/60x60/video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29.587961,53.9965343 C16.0180722,53.7681035 5.19066,42.27752 6.048,28.469 C6.79,16.517 16.517,6.789 28.469,6.048 C42.417,5.182 54,16.238 54,30 L54,30 L53.9967847,30.3968888 C53.784849,43.4688255 43.12245,54 30,54 L30,54 Z" id="Combined-Shape" fill="#00153B"></path>
+        <path d="M44.826725,44 L15.1732667,44 C12.868725,44 10.9996,42.1644444 10.9996,39.9003333 L10.9996,20.0996667 C10.9996,17.8355556 12.868725,16 15.1732667,16 L44.826725,16 C47.1312667,16 48.9996,17.8355556 48.9996,20.0996667 L48.9996,39.9003333 C48.9996,42.1644444 47.1312667,44 44.826725,44 Z" id="Stroke-1" stroke="#2EB598" stroke-width="2" opacity="0.751985822" stroke-linejoin="round"></path>
+        <g id="Group" transform="translate(16.000000, 24.000000)" stroke="#2EB598" stroke-linejoin="round" stroke-width="2">
+            <path d="M26.2602,12 L10.2602,12 C9.7072,12 9.2602,11.553 9.2602,11 L9.2602,1 C9.2602,0.447 9.7072,0 10.2602,0 L26.2602,0 C26.8122,0 27.2602,0.447 27.2602,1 L27.2602,11 C27.2602,11.553 26.8122,12 26.2602,12 Z" id="Stroke-3"></path>
+            <polygon id="Stroke-5" points="8.52 6 2.18491891e-13 0 2.18491891e-13 12"></polygon>
+        </g>
+    </g>
+</svg>

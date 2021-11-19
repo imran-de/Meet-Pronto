@@ -1,0 +1,595 @@
+.archive-background{
+  height: 290px;
+  background: linear-gradient(180deg, #B2E1D7 0%, #FFFFFF 100%);
+}
+.content-body{
+	position: relative;
+	margin-top: -30px;
+}
+.title>h1{
+  color: #00153B;
+  font-size: 40px;
+  line-height: 52px;
+}
+.helper-text{
+  color: #7F8A9D;
+  font-size: 20px;
+  line-height: 25px;
+}
+option,select{
+  outline: none;
+}
+.title-2{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+}
+.category li{
+margin: 0 10px;
+padding: 5px 10px;
+text-decoration: underline;
+box-shadow: border-box;
+border-radius: 3px;
+background-color: #FFFFFF;
+box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+color: #00153B;
+font-family: "Azo Sans";
+font-size: 17px;
+letter-spacing: 0;
+line-height: 21px;
+width: 180px;
+cursor: pointer;
+}
+.title-h4{
+  text-align: center;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+/*********************
+front-Select-Term
+*******************/
+.icon-helper-text{
+  color: #55647E;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-style: italic;
+  letter-spacing: 0;
+  line-height: 22.1px;
+  text-align: right;
+  margin-left: 30%;
+}
+.sub-title{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+.ul-li-radio{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.next{
+  height: 60px;
+  width: 202px;
+  border-radius: 30px;
+  background-color: #00153B;
+  margin:60px 150px 0px 0px;
+  text-decoration: underline;
+  font-size: 17px;
+}
+
+/****************
+End front-Select-Term
+*******************/
+
+/*******************
+front-SAT- ALL
+*******************/
+.hero-banner-title{
+  margin-top: -200px;
+}
+.hero-title{
+  color: #959DAD;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  text-align: center;
+}
+.service-pre-listing-many-items{
+  margin-left: 80px;
+}
+ul.service-pre-listing-many-items>li{
+  width: 33.33%;
+  float: left;
+  line-height: 20px;
+}
+ul.service-pre-listing-many-items>li>a{
+  opacity: 0.99;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 22px;
+}
+
+/*****************
+End front-SAT- ALL
+******************/
+
+/*******************
+ * front-Select-Category Copy 2
+ *********************/
+.category li.active{
+    background-color: #00153B;
+    box-shadow: 0 0 0px 0px rgb(0 0 0 / 10%);
+    color: #fff;
+}
+
+ /*End front-Select-Category Copy 2*/
+
+
+ /****************************
+front-Select-Category-Copy-3
+***************************/
+.container-custom {
+  font-size: 17px;
+}
+
+/*END front-Select-Category-Copy-3*/
+
+/******************
+listing Suppliers
+***********************/
+.title h1{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-left: 12%;
+  padding-bottom: 30px;
+}
+.left-bar{
+  border-right: 6px solid #FDE9B1;
+}
+.moteform-icon li{
+  width: 33.33%;
+}
+.input-checkbox>.container-custom.squre{
+  left: -40px;
+  text-decoration: none;
+}
+.input-checkbox .checkmark.checkmark-square{
+  border-radius: 1px;
+  left: 45px;
+  height: 20px;
+  width: 20px;
+}
+.container-custom .checkmark-square-2:after,.container-custom .checkmark-square:after{
+    left: 6px;
+    top: 3px;
+}
+.input-checkbox>.container-custom.squre-2{
+  left: -90px;
+  text-decoration: none;
+}
+.input-checkbox .checkmark.checkmark-square-2{
+  border-radius: 1px;
+  left: 90px;
+  height: 20px;
+  width: 20px;
+}
+.input-box-datetime{
+  box-sizing: border-box;
+  background-color: #fff;
+  width: 260px;
+  box-shadow: 0 0 4px 1px rgb(0 0 0 / 40%);
+
+}
+.input-box-datetime input, .input-box-datetime select{
+  border: none;
+  outline: none;
+  height: 60px;
+}
+.find-button{
+  height: 38px;
+  width: 187px;
+  border: none;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 2px 0 rgba(0,0,0,0.25);
+  color: #C0C0C0;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.find-button:hover{
+  border: 1px solid #C0C0C0;
+  color:  #00153B;
+}
+.date-helper-text {
+    font-size: 17px;
+    line-height: 25px;
+    margin-top: -19px;
+}
+.info-icon{
+    position: relative;
+    top: 12px;
+    left: -7px;
+}
+.book-meeting-negative{
+  background-color: #fff;
+  color: #000;
+}
+.container-custom.result-btn{
+  padding-left: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.checkmark.btn-radio {
+    left: 9px;
+    height: 20px;
+    width: 20px;
+}
+.container-custom .checkmark.btn-radio:after {
+    left: 6px;
+    top: 4px;
+}
+.show-onclick-box{
+    height: 218px;
+    background-color: #FEE4A7;
+    border-bottom: 4px solid #2EB598;
+    width: 107%;
+    margin: 0px;
+    padding: 10px;
+    margin-left: -3.9%;
+    position: relative;
+    text-align: right;
+    overflow: hidden;
+}
+.close {
+    height: 38px;
+    width: 38px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+    position: relative;
+    right: 13px;
+    border: none;
+}
+.pop-icon{
+  position: relative;
+  left: -23%;
+}
+.remove{
+  display: none;
+}
+.z-index{
+  z-index: -1;
+}
+.stay{
+  border: none;
+  color: #00153B;
+ height: 38px;
+  width: 276px;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+}
+}
+.pagination-active{
+  border: none;
+  background-color: #84C1D6;
+}
+.arrow{
+  border: 3px solid #84C1D6;
+}
+.arrow .right {
+    top: -11px;
+    left: 8px;
+}
+.arrow span {
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    margin: 5px;
+    font-size: 35px;
+    text-align: center;
+    border-radius: 50%;
+    position: relative;
+    top: -11px;
+    left: 3px;
+}
+/*End listing Suppliers*/
+
+/*********************
+listing Suppliers Case No Data
+************************/
+.no-data-show-body{
+    background-color: #FEE4A7;
+    border-bottom: 11px solid #2EB598;
+    width: 107%;
+    margin: 0px;
+    padding: 10px;
+    margin-left: -3.9%;
+    position: relative;
+}
+.icon-ml{
+  margin-left: 25px;
+}
+.icon-mln{
+  margin-left: -20px;
+}
+/*End listing Suppliers Case No Data*/
+
+/*************************
+ * front
+ * ************************/
+.content-body.content-body-front{
+  margin-top: -120px;
+}
+.form-input-box input {
+    border: none;
+    line-height: 40px;
+    width: 100%;
+}
+.bigbutton button{
+  height: 70px;
+  width: 570px;
+  border-radius: 3px;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+  background-color: #FFFFFF;
+  border: none;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  padding: 0 20px;
+}
+.find-sup-button{
+ box-sizing: border-box;
+  height: 38px;
+  width: 187px;
+  border: 3px solid #FFFFFF;
+  border-radius: 19px;
+  background-color: #00153B;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+  border: none;
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 60px;
+}
+#bigbuttonCatogory ul li{
+  width: 25%;
+  float: left;
+}
+#bigbuttonCatogory{
+background-color: #fff;
+position: absolute;
+top: 0px;
+z-index: 1;
+}
+.closecatgory{
+  height: 38px;
+  width: 38px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+  position: relative;
+  line-height: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+/* End Front */
+.input-checkbox.without-shadow .checkmark{
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow: 0 0 0;
+}
+
+/*End responsive style*/
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .category li {
+      float: left;
+      margin-bottom: 15px;
+      height: auto!important;
+  }
+  .moteform-icon li {
+    width: 25%;
+  }
+  .input-checkbox>.container-custom.squre {
+    left: -320px;
+  }
+  .input-checkbox .checkmark.checkmark-square {
+    left: 330px;
+  }
+  .input-checkbox>.container-custom.squre-2 {
+    left: -370px;
+  }
+  .input-checkbox .checkmark.checkmark-square-2 {
+    left: 376px;
+  }
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .category li {
+      float: left;
+      margin-bottom: 15px;
+      height: auto!important;
+  }  
+  .icon-helper-text {
+    text-align: center;
+    margin-left: 0%;
+  }
+  .title h1 {
+     margin-left: 0%; 
+  }
+  .service-pre-listing-many-items {
+     margin-left: 0px; 
+  }
+  .moteform-icon li {
+    width: 25%;
+  }
+  .input-checkbox>.container-custom.squre {
+    left: -220px;
+  }
+  .input-checkbox .checkmark.checkmark-square {
+    left: 230px;
+  }
+  .input-checkbox>.container-custom.squre-2 {
+    left: -270px;
+  }
+  .input-checkbox .checkmark.checkmark-square-2 {
+    left: 276px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .bigbutton button{
+    font-size: 20px;
+  }
+  .left-bar{
+    width: 100%;
+    border-right: none;
+  }
+  .moteform-icon li{
+    width: 25%;
+  }
+  .pop-icon {
+      position: relative;
+      left: -40px;
+  }
+  #bigbuttonCatogory ul{
+    height: 80vh;
+    overflow-y: scroll;
+  }
+  #bigbuttonCatogory ul li{
+    width: 50%;
+    float: left;
+    overflow-y: scroll;
+  }
+  .bigbutton button{
+    width: 100%;
+  }
+  .form-input-box {
+    margin: 20px;
+  }
+  .category li {
+    width: 44%;
+      float: left;
+      margin-bottom: 15px;
+      height: auto!important;
+  }
+/**** listing suppliers ******/
+  .input-checkbox>.container-custom.squre {
+    left: -90px;
+  }
+  .input-checkbox .checkmark.checkmark-square {
+    left: 100px;
+  }
+  .input-checkbox .checkmark.checkmark-square-2 {
+    left: 145px;
+  }
+  .input-checkbox>.container-custom.squre-2 {
+    left: -137px;
+  }
+  .icon-helper-text {
+    text-align: center;
+    margin-left: 0%;
+  }
+  .service-pre-listing-many-items {
+    margin: auto;
+  }
+  .category-icon li:nth-child(1){
+    display: block;
+    width: 100%;
+  }
+  .category-icon li{
+    width: 50%;
+    float: left;
+  }
+  ul.service-pre-listing-many-items>li {
+    width: 50%;
+  }
+  .content-body {
+    position: relative;
+    margin-top: -200px;
+  }
+ .ul-li-radio {
+    margin: auto;
+    margin-top: 20px;
+    height: 350px;
+    overflow: scroll;
+  }
+  .title h1 {
+    margin-left: 5%;
+  }
+  .content-body.content-body-front {
+    margin-top: -240px;
+  }
+  #bigbuttonCatogory {
+    width: 100%;
+  }
+  .checkmark {
+    position: absolute;
+    box-shadow: 1px  4px 1px rgb(0 0 0 / 40%);
+  }
+  #bigbuttonCatogory>.xs-ul {
+    height: 350px;
+    overflow-y: scroll;
+  }
+  #bigbuttonCatogory>.xs-ul>li{
+    width: 100%;
+    float: left;
+    padding-left: 20px;
+  }
+  .service-pre-listing-many-items {
+     margin-left: 0px; 
+  }
+  .title h1 {
+    font-size: 20px;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+  .pop-icon {
+      position: relative;
+      left: -20px;
+  }
+  .container-custom.result-btn {
+    padding-left: 30px;
+  }
+  .input-checkbox .checkmark.checkmark-square {
+    left: 70px;
+  }
+  .input-checkbox>.container-custom.squre {
+    left: -70px;
+  }
+  .input-checkbox .checkmark.checkmark-square-2 {
+    left: 115px;
+  }
+  .input-checkbox>.container-custom.squre-2 {
+    left: -110px;
+  }
+}

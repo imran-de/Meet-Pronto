@@ -1,0 +1,142 @@
+.background-image{
+	height: 600px;
+}
+.article-wrapper{
+	position: relative;
+	margin-top: -600px;
+}
+.article-title{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52px;
+  text-align: center;
+}
+.article-banner{
+	background-color: #FAFAFA;
+}
+.date-author-title{
+  position: relative;
+}
+.date-author-title>.title{
+  opacity: 0.99;
+  color: #55647E;
+  font-family: "Azo Sans";
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24.4px;
+}
+.date-author-title>.text{
+  opacity: 0.99;
+  color: #55647E;
+  font-family: "Azo Sans";
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24.4px;
+  padding-right: 18px;
+}
+.article-image img{
+	height: 700px;
+	width: 100%;
+	padding: 0;
+}
+.les-ogsa-box{
+	position: relative;
+	top: 60px;
+}
+.artile-h2{
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+.artile-h3{
+  color: #00153B;
+  font-size: 23px;
+}
+.artile-h4{
+  color: #00153B;
+  font-size: 20px;
+}
+.article-text{
+  opacity: 0.99;
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24.4px;
+}
+/******************************
+ END
+ **********************************/
+
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+.web-ad-banner-side{
+  display: none;
+}
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .web-ad-banner-side{
+    display: none;
+  }
+  .article-wrapper{
+    margin-top: 0px;
+  }
+  .article-image img {
+    height: 235px;
+    width: 100%;
+    padding: 0;
+  }
+  .article-banner{
+    margin: 0px;
+  }
+  .tips,.news-title{
+    text-align: center;
+  }
+  .row{
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .article-wrapper{
+    margin-top: 0px;
+  }
+  .article-image img {
+    height: 235px;
+    width: 100%;
+    padding: 0;
+  }
+  .article-banner{
+    margin: 0px;
+  }
+  .tips,.news-title{
+    text-align: center;
+  }
+  .row{
+    margin: 0;
+    padding: 0;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+
+}

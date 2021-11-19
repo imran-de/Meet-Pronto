@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/navmenu/buisnes page@1x</title>
+    <g id="icon/navmenu/buisnes-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="30" y1="21.5649655" x2="30" y2="8" id="Stroke-3" stroke="#2EB598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <polyline id="Stroke-5" stroke="#2EB598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="54 8.00033103 49.862069 14.9040552 49.862069 54.7184"></polyline>
+        <polyline id="Stroke-7" stroke="#2EB598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="6 8.00033103 10.137931 14.9040552 10.137931 54.7184"></polyline>
+        <polyline id="Stroke-9" stroke="#2EB598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="17.5151172 8.00033103 20.0690483 14.9040552 20.0690483 21.5649655"></polyline>
+        <polyline id="Stroke-11" stroke="#2EB598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="42.4857103 8.00033103 39.9309517 14.9040552 39.9309517 21.5649655"></polyline>
+        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="16" y="26" width="28" height="6"></rect>
+        <rect id="Rectangle-Copy" stroke="#979797" stroke-width="2" x="16" y="37" width="28" height="6"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#979797" stroke-width="2" x="16" y="48" width="28" height="6"></rect>
+    </g>
+</svg>

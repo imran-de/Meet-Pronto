@@ -1,0 +1,893 @@
+*{
+  font-family: "Azo Sans";
+}
+input,textarea,select{
+  outline: none;
+}
+.hero-header{
+  position: relative;
+	background-color: #00153C;
+	height: 80px;
+}
+.nav-link,.nav-link:hover{
+	color: #fff;
+}
+.main-nav{
+	margin-right: 160px;margin-left: 160px;
+}
+.navmenu-logo-meet-pronto {
+  height: 40.02px;
+  width: 196px;
+}
+.main-banner{
+  position: relative;
+  height: 300px;
+  background: linear-gradient(180deg, #B2E1D7 0%, #FFFFFF 100%);
+}
+.avtal-mote-nar-det-p {
+	padding-top: 210px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52px;
+  text-align: center;
+}
+.velg-moteformen-som,.tidspunkt-og-sted{
+  color: #7F8A9D;
+  font-family: "Azo Sans";
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+  text-align: center;
+}
+.icon-list{
+	list-style: none;
+    display: inline-flex;
+    text-align: center;
+}
+.icon-list>li{
+	margin: 5px 15px;
+}
+.oval {
+  height: 60px;
+  width: 60px;
+  border-radius: 99%;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
+}
+.form-input-box{
+	height: 60px;
+	padding-top: 9px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
+}
+.form-input-box input{
+	border: none;line-height: 40px;/*width: 224px;*/
+}
+.datetime-icon{
+	height: 44px;width: 44px;margin:auto 5px;
+}
+.location-icon{
+height: 44px;width: 28px;vertical-align: center;
+}
+.drop{
+	line-height: 40px;vertical-align: center;padding-top: 5px;
+}
+.fa-caret-down{
+	font-size: 24px;
+}
+#cities{
+	 border:none;width: 100%;height: 40px;
+  	color: #59677F;
+}
+#cities option{	
+  color: #59677F;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.hva-trenger-du-hjelp {
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  text-align: center;
+  margin-top: 20px;
+}
+.hva-box a{
+	color: #000;
+}
+.rectangle-hva {
+	padding: 10px;margin-bottom: 20px;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
+}
+.cat-tittle {
+	margin: 22px 0 0 0;
+	padding-left: 24px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.cat-tittle>p{
+	text-decoration: underline;
+	cursor: pointer;
+}
+.cat-icon{
+  height: 96px;
+  width: 96px;
+}
+.se-all{
+  color: #00153B;
+  font-family: "Azo Sans";padding-right: 10px;padding-top: 15px;
+}
+.slick{
+	margin-top: 144px;
+	border-top:3px solid #FDE9B1;
+	background-color:  #FAFAFA;
+}
+.slik-funker-meetpron {
+	margin-top: 60px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+}
+.icon-oval {
+	margin: 26px 0 26px 0;
+	vertical-align: middle;
+  height: 26px;
+  width: 67px;
+  border-radius: 99%;
+  background-color: #D8D8D8;
+}
+.velg-tjeneste-og {
+  /*height: 97px;*/
+  /*width: 295px;*/
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+.bli-kontaket-av {
+  /*height: 23px;*/
+  /*width: 129px;*/
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+}
+.bli-tag{
+	color: #2EB598;
+  font-family: "Azo Sans";
+  font-size: 31px;
+  letter-spacing: 0;
+  line-height: 39px;
+}
+.tips-box{
+  position: relative;
+	/*margin: 0px 120px;*/
+}
+.tips {
+	margin-top: 62px;
+  height: 52px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52px;
+}
+.vis-bare {
+  opacity: 0.99;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 24.4px;
+}
+.rectangle-1,.rectangle-2,.rectangle-3,.rectangle-4,.rectangle-5{
+	border:none;margin: 0 10px 0 10px;
+}
+.rectangle-1 {
+  height: 38px;
+  width: 201px;
+  opacity: 0.5;
+  border-radius: 19px;
+  background-color: #B7D9E5;
+}
+.rectangle-2 {
+  height: 38px;
+  width: 108px;
+  opacity: 0.67;
+  border-radius: 19px;
+  background-color: #F6A67C;
+}
+.rectangle-3 {
+  height: 38px;
+  width: 183px;
+  border-radius: 19px;
+  background-color: rgba(110,122,144,0.32);
+}
+.rectangle-4 {
+  height: 38px;
+  width: 144px;
+  border-radius: 19px;
+  background-color: #89D5C5;
+}
+.rectangle-5 {
+  height: 38px;
+  width: 94px;
+  border-radius: 19px;
+  background-color: #FED370;
+}
+.news-box{
+	height: 387px;overflow: hidden;background-color: #FAFAFA;position: relative;margin-bottom: 25px;
+}
+.news-title{
+	padding:36px 11px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+}
+.news-box-bottom-rectangle{
+position: absolute;right: 2px;bottom: -2px;
+  height: 54px;
+  width: 50px;
+  transform: rotate(90deg);
+  border-radius: 0 0 0 100px;
+}
+.Helse{background-color: #D1D5DC;}
+.Familie{background-color: #F9C3A7;}
+.Hus{background-color: #89D5C5;}
+.Reise{background-color: #FED370;}
+.Bil{background-color: #89D5C5;}
+
+
+/*footer style*/
+.footer-logo{
+	height: 51px;width: 250px;
+}
+.footer-background{
+	background-color: #F1F1F1;
+	padding-bottom: 30px; 
+}
+.for-de-som-har-bedre {
+  min-height: 80px;
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 25px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+.om-meetpronto,.om-meetpronto:hover {
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.for-privat-personer {
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+.footer-link{
+	list-style: none;
+}
+.footer-link a{
+	color: #000000;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-decoration: underline;
+  margin-left: -30px;
+}
+/*End Footer style*/
+/*********************
+popover styles
+**********************/
+.popover-icon{
+	height: 72px;width: 72px;
+}
+.popover-wrapper {
+  position: relative;
+  margin-top: 0;
+  display: inline-block;
+}
+.popover-content {
+  width: 447px;
+  border-radius: 5px;
+  background-color: #00153B;
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  left: 100px;top: -50px;
+  transform: translate(0, 10px);
+  padding: 36px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+.content-right{
+  width: 447px;
+  border-radius: 5px;
+  background-color: #00153B;
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  left: -450px;top: -50px;
+  transform: translate(0, 10px);
+  padding: 36px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+.content-right>.popup-arrow-right{
+  height: 30px;
+  width: 30px;
+  z-index: -1;
+  transform: rotate(45deg);
+  border-radius: 5px;
+  background-color: #00153B;
+  position: absolute;right: -8px;top: 45%;
+}
+.popover-wrapper:hover .popover-content {
+  z-index: 10;
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0, -20px);
+  transition: all 0.5s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+}
+.onsker-du-a-heve-bilkjopet-dit {
+	padding-left: 20px;
+  width: 267px;
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+}
+.velg-bil-og-vedlikeh {
+  height: auto;
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24.4px;
+}
+.vis {
+  height: 38px;
+  width: 176px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+  border-radius: 19px;
+  background-color: #FFFFFF;
+  border: none;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.25);
+}
+.popover-arrow {
+  height: 30px;
+  width: 30px;
+  z-index: -1;
+  transform: rotate(45deg);
+  border-radius: 5px;
+  background-color: #00153B;
+  position: absolute;left: -8px;top: 45%;
+}
+/****************************
+End popovers styling
+*****************************/
+
+/***********************
+Start category select & display new box input option design
+***********************/
+.modal-title {
+  height: 96px;
+  width: 90%;
+  float: left;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 38px;
+  letter-spacing: 0;
+}
+.modal-dialog{
+  max-width: 80%;
+  margin: auto;
+  top: 150px;
+  opacity: 1;
+}
+.modal-content{
+  width: 100%;
+  background-color: #fff;
+  margin: auto;
+}
+.modal-icon{
+  height: 70px;width: 96px;float: left;margin-right: 10px;
+}
+.velg-hvem-du-trenger {
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  text-align: left;
+}
+/******************
+Start input box radio button style
+******************/
+.input-checkbox{
+  width: 33.33%;
+  float: left;
+}
+/* The container-custom */
+.container-custom {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 25px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-decoration: underline;
+  line-height: 22px;
+}
+
+/* Hide the browser's default checkbox */
+.container-custom input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  border-radius:50%;background-color: #FFFFFF;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.4);
+}
+
+
+/* When the checkbox is checked, add a blue background */
+.container-custom input:checked ~ .checkmark {
+  background-color: #00153B;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container-custom input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container-custom .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 8px;
+  height: 10px;
+  border: solid #2EB598;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/**********************
+End input box radio button style
+***********************/
+.tilbake {
+  height: 38px;
+  width: 96px;
+  color: #00153B;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 40px;
+  text-decoration: underline;
+  border: none;
+  border-radius: 50px;
+  margin: 120px auto 60px;
+}
+.back{
+	margin: 0;
+	margin-right: 5px;
+}
+.neste{
+height: 38px;
+  width: 96px;
+  color: #FFFFFF;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  text-decoration: none;
+  letter-spacing: 0;
+  line-height: 40px;
+  border: none;
+  border-radius: 50px;
+  margin: 0;
+  text-align: center;
+  background-color: #00153B;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.35);
+}
+.neste:hover{
+	color: #FFFFFF;
+}
+.time-and-date-button-box{
+	margin: auto;
+    width: 200px;
+    margin-top: 120px;
+}
+.category-box{display: none;}
+.another-category-box{display: none;}
+.show{
+  	display: block;
+    position: absolute;
+    top: 287px;
+    height: 693px;
+    background-color: #fff;
+    left: 8%;
+}
+.anothershow{
+  	display: block;
+    position: absolute;
+    top: 287px;
+    height: 693px;
+    background-color: #fff;
+    left: 8%;
+}
+.active{
+	background-color: #00153B;
+  box-shadow: 0 0 0px 0px rgba(0,0,0,0.1);
+}
+/***********************
+End category select & display new box input option design
+***********************/
+/************************
+ * menu page style
+ * **********************/
+.menu-background{
+  height: 91vh;
+  background-color: #EAF7FA;
+  padding-top: 150px;
+}
+.menu-background ul>li>ul>li{
+  color: #000;
+  font-weight: 800;
+  font-family: "Azo Sans";
+  font-size: 22px;
+  line-height: 48px;
+}
+.menu-background ul>li>ul>li>a{
+  color: #000000;
+  font-family: "Azo Sans";
+  font-size: 17px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+.menu-background>ul>li>ul>li>a:hover{
+  color: #000000;
+}
+
+/**********************
+ * End menu style
+ * ********************/
+.icon-radio{
+  height: 80px;
+}
+.input-checkbox.icon-radio .checkmark{
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  box-shadow: 0 0 4px 1px rgb(0 0 0 / 40%);
+  text-align: center;
+  font-size: 17px;
+}
+.input-checkbox.icon-radio .container-custom .checkmark:after{
+  border: none;
+}
+/*********************************************/
+ /********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .main-nav {
+      margin-right: 60px;
+      margin-left: 60px;
+  }
+  .popover-content.pop-center-lg {
+    left: 0px;
+  }
+  .show {
+    left: 4%;
+  }
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .main-nav{
+    margin-left: 10px;margin-right: 10px;
+  }
+  .menu-text{
+    display: none;
+  }
+  .avtal-mote-nar-det-p{
+    padding-top: 5px;
+  }
+  .rectangle-1,.rectangle-2,.rectangle-3,.rectangle-4,.rectangle-5{
+  border:none;margin: 0 10px 10px 10px; 
+}
+  .footer-background{
+    margin: 0px;
+  }
+  .for-de-som-har-bedre{
+    text-align: center;
+  }
+  .footer-link{
+    /*padding: 0px;*/
+  }
+  .cat-icon {
+    height: 70px;
+    width: 70px;
+  }
+  .popover-content {
+    left: -198px;
+  }
+  .pop-left-mbl {
+    position: absolute;
+    left: 100px;
+  }
+  .popover-arrow, .popup-arrow-right{
+    display: none;
+  }
+  .avtal-mote-nar-det-p {
+    padding-top: 150px;
+  }
+  .show{
+    left: 3%;
+  }
+  .content-right {
+    left: -450px;
+  }
+
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .main-nav{
+    margin-left: 10px;margin-right: 10px;
+  }
+  .menu-text{
+    display: none;
+  }
+  .avtal-mote-nar-det-p{
+    padding-top: 5px;
+  }
+  .rectangle-1,.rectangle-2,.rectangle-3,.rectangle-4,.rectangle-5{
+  border:none;margin: 0 10px 10px 10px; 
+}
+  .footer-background{
+    margin: 0px;
+  }
+  .for-de-som-har-bedre{
+    text-align: center;
+  }
+  .footer-link{
+    /*padding: 0px;*/
+  }
+  .bli-tag {
+     max-width: 100%; 
+    overflow: hidden;
+  }
+  .tips-box{
+  /*margin: 0px 0px;*/
+  text-align: center;
+  }
+  .count-font{
+    box-sizing: border-box;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 13px;
+    border: 1px solid #2EB598;
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+  }
+  .count-right{
+    position: relative;
+    left: 115%;
+  }
+  .slick{
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .bli-kontaket-av{
+    margin-top: 60px;
+  }
+  .cat-icon {
+    height: 60px;
+    width: 60px;
+  }
+  .cat-tittle {
+    margin: auto auto 0 auto;
+    height: auto;
+  }
+  .form-input-box {
+    margin-right: 10px;
+  }
+  .font-sat-mt{
+    position: relative;
+    margin-top: -160px;
+  }
+  .se-all {
+    display: none;
+  }
+  .input-checkbox {
+    width: 50%;
+  }
+
+  .popover-content {    
+    width: 700%;    
+    left: -580%;
+  }
+  .popover-wrapper:hover .popover-content {
+    z-index: 10;
+    opacity: 1;
+    visibility: visible;
+    transform: translate(0, -20px);
+    transition: all 0.5s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+  }
+  .popup-arrow-right,.popover-arrow{
+   display: none;
+  }
+  .popover-content.pop-left-md{
+    left: -175%;
+  }
+  .show {
+    left: 0;
+  }
+  .tilbake {
+    margin: auto;
+  }
+  .velg-hvem-du-trenger {
+    background-color: #fff;
+  }
+  .front31-contentbox{
+    position: relative;
+    margin-top: -150px;
+  }
+  .time-and-date-button-box {
+    margin-top: 20px;
+  }
+  .menu>li{
+    width: 100%;
+    float: left;
+  }
+  .menu-background{
+    padding-top: 60px;
+    overflow: scroll;
+  }  
+  .mbl-icon-xs{
+    margin-top: 60px;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+  .navmenu-logo-meet-pronto {
+    height: auto;
+    width: 140px;
+  }
+  .icon-list>li {
+      margin: 5px 8px;
+  }
+  .avtal-mote-nar-det-p {
+    padding-top: 50px;
+    color: #00153B;
+    font-family: "Azo Sans";
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 30px;
+    text-align: center;
+  }
+  .popover-content {
+    width: auto;
+    left: -600%;
+  }
+  .popover-content.xs-pop-left{
+    position: absolute;
+    left: -200%;
+  }
+  .popover-content.xs-pop-right{
+    left: -600%;
+  }
+  .xs-ul{
+    height: 350px;
+    overflow: scroll;
+  }
+  .input-checkbox {
+    width: 100%;
+    float: left;
+  }
+  .icon-list {
+    padding-left: 0px;
+  }
+  .cat-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .category-box{
+    background-color: #fff;
+  }
+  .modal-title {
+    height: auto;
+    width: 100%;
+    font-size: 30px;
+    line-height: 32px;
+  }
+  .velg-hvem-du-trenger {
+    color: #00153B;
+    font-family: "Azo Sans";
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28.5px;
+    text-align: left;
+  }
+  .container-custom {
+    font-size: 18px;
+  }
+  .mbl-icon-xs{
+    margin-top: 60px;
+  }
+}
+/*for iphone 5/SE*/
+@media (max-width: 320px){
+  .navmenu-logo-meet-pronto {
+    height: auto;
+    width: 80px;
+  }
+}
+
+
+
+
+
+
+
+.br{border: 1px solid red;}
